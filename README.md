@@ -14,9 +14,8 @@ Welcome to my GitHub profile! I'm a passionate developer, learner, and tech enth
 
 ## 💼 Technical Skills:
 - **Languages**: Python, C,C++
-- 
 - **Tools**:  Git, VS Code,Replit
-- 
+
 
 ---
 
