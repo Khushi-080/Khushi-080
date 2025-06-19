@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I'm a passionate developer, learner, and tech enth
 ## 🌟 About Me:
 - 🎓 **Education**: Computer Science Student at Chitkara University.
 - 💻 **Interests**: Web Development, Data Science, Open Source, and AI/ML
-- 🌱 **Currently Learning**: front end engineering , Python, C .
-- 🚀 **Hobbies**: Coding, Blogging, and exploring the latest in tech trends
+- 🌱 **Currently Learning**: front end engineering , Python, C ,C++.
+- 🚀 **Hobbies**: Coding, and exploring the latest in tech trends
 
 ---
 
 ## 💼 Technical Skills:
-- **Languages**: Python, C
+- **Languages**: Python, C,C++
 - 
-- **Tools**:  Git, VS Code]
+- **Tools**:  Git, VS Code,Replit
 - 
 
 ---
